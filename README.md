@@ -26,7 +26,7 @@
 1. Download [Java Eclipse IDE](https://www.eclipse.org/downloads/)
 2. Clone this repository: ``git clone https://github.com/VanessaSwerts/goMusic-admin.git``
 3. Open the app on Eclipse IDE
-5. Run the project and access http://localhost:8080
+5. Run the project and access http://localhost:8081
 
 ---
 
@@ -56,6 +56,3 @@
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">  
-
-
-
