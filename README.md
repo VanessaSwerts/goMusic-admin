@@ -10,18 +10,27 @@
 	 ✅ goMusic Admin - Concluído  ✅
 </h4>
 
------
+---
 
-## 🚀 Como executar o projeto
+<p align="center">
+ <a href="#-setup">Setup</a> • 
+ <a href="#-technologies">Technologies</a> • 
+ <a href="#-author">Author</a> • 
+ <a href="#user-content--license">License</a>
+</p>
+
+---
+
+## 🚀 Setup
 
 1. Download [Java Eclipse IDE](https://www.eclipse.org/downloads/)
-2. Clone este repositório: git clone https://github.com/VanessaSwerts/goMusic-admin.git
-3. Abra o projeto no Eclipse IDE
-5. Rode o projeto e acesse http://localhost:8081
+2. Clone this repository: ``git clone https://github.com/VanessaSwerts/goMusic-admin.git``
+3. Open the app on Eclipse IDE
+5. Run the project and access http://localhost:8080
 
------
+---
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
 #### **API**  ([Spring Boot](https://spring.io/projects/spring-boot))
 
@@ -29,9 +38,10 @@
   -   **[spring-boot-starter-web](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web)**
   -   **[spring-boot-starter-test](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-test)**
   -   **[spring-boot-admin-starter-server](https://mvnrepository.com/artifact/de.codecentric/spring-boot-admin-starter-server)**
+
 ---
 
-## 🦸 Autora
+## 🦸 Author
 
 <table>
   <tr>   
@@ -41,9 +51,11 @@
 
 ---
 
-## 📝 Licença
+## 📝 License
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">  
+
+
 
